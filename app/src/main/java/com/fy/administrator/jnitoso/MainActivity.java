@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+        //merge test
         util.destory();
     }
 
